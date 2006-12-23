@@ -1,0 +1,1 @@
+There's not a lot of content up here; for the moment, refer to the initial blog post at http://romeda.org/blog/2006/11/announcing-jabbersimple.html or take a look at the source for the Twitter-Weather bot: http://romeda.org/blog/2006/12/weather-by-twitter.html
